@@ -1,6 +1,6 @@
 # casadocodigo-nodejs
 
-Curso Alura: 
+**Curso Alura:**
 
 Node.js Parte 1
 
